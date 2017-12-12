@@ -1,0 +1,9 @@
+{
+  "name": "vertxwebsocket",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "4.x",
+    "socket.io": "*",
+    "vertx-bus-client": "*"
+  }
+}
